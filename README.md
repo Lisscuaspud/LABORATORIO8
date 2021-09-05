@@ -2,18 +2,33 @@
 
 **1.OBJETIVO GENERAL**
 
+Revisar el concepto y representación de onda senoidal aplicado a circuitos eléctricos, posteriormente observar la señal que aparece en el osciloscopio y responder las preguntas planteadas.
+
 **2.OBJETIVOS ESPECÍFICOS**
 
--
+- Investigar la representación de onda senoidal y su relación con la corriente alterna. 
 
--
+- Comparar el voltaje de salida en RL con la amplitud de voltaje y verificar si coinciden. 
 
 -
 
 **3.MARCO TEÓRICO**
 
+
+
 **4.MATERIALES**
 
+- Generador de funciones 
+
+- Osciloscopio 
+
+- Multímetro digital 
+
+-  Resistor de 1 kilohmio 
+
+- Resistor de 2 kilohmio 
+
+- Protoboard 
 
 **5.PROCEDIMIENTO**
 
