@@ -32,12 +32,11 @@ Revisar el concepto y representación de onda senoidal aplicado a circuitos elé
 
 **5.PROCEDIMIENTO**
 
-IMAGEN DEL CIRCUITO ARMADO 
 
 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
 
-imagen 
+![](https://user-images.githubusercontent.com/84998013/132145584-2dc9a52a-c952-423a-bb24-ea2f926536c6.png)
 
 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
