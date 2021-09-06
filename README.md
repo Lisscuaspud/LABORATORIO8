@@ -10,7 +10,7 @@ Revisar el concepto y representación de onda senoidal aplicado a circuitos elé
 
 - Comparar el voltaje de salida en RL con la amplitud de voltaje y verificar si coinciden. 
 
-- 
+- Analizar como se representa el valor de ca en funcion del tiempo 
 
 **3.MARCO TEÓRICO**
 
@@ -99,7 +99,7 @@ Al multiplicar el voltaje de la amplitud por 0.707, se tendrá el voltaje eficaz
 
 -
 
--
+-  Se puede concluir que la onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable y este puede variar dependiendo de como se posiciones las perrillas del osciloscopio.
 
 -
 
