@@ -73,6 +73,7 @@ Amplitud de voltaje:
 Periodo:
 
 0.4ms  a s =  0.0004 s
+
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
