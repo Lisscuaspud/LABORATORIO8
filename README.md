@@ -4,6 +4,8 @@
 
 Revisar el concepto y representación de onda senoidal aplicado a circuitos eléctricos, posteriormente observar la señal que aparece en el osciloscopio y responder las preguntas planteadas.
 
+Identificar Los elementos que forman parte de un osciloscopio y lo que significa cada division de la pantalla que nos muestra segun las perillas de los canles que ajustemos para resolver preguntas acerca del analisis de un circuito y las funciones de un osciloscopio.
+
 **2.OBJETIVOS ESPECÍFICOS**
 
 - Investigar la representación de onda senoidal y su relación con la corriente alterna. 
@@ -92,12 +94,12 @@ Al multiplicar el voltaje de la amplitud por 0.707, se tendrá el voltaje eficaz
 
 
 **7.VIDEO**
-
+https://www.youtube.com/watch?v=AjwDtIPhKUw
 
 
 **8.CONCLUSIONES**
 
--
+- Segun las modificaciones que le hagamos a un canal en un oscilos copio las ondas sinusoidales que nos muestre seran mas largas es decir su cilo tardara mas en completarce o mas cortas al igual que el voltaje pico puede variar su ubicacion en la pantalla segun las modificaciones que hagamos en el cannal del osciloscipio que usamos para la medicion.
 
 -  Se puede concluir que la onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable y este puede variar dependiendo de como se posiciones las perrillas del osciloscopio.
 
