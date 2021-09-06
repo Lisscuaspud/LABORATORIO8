@@ -68,25 +68,27 @@ del osciloscopio?
 
 Amplitud de voltaje:
 
- 6.8()V)
+ 6.82 V
  
 Periodo:
 
-0.4ms  a s = 〖4x10〗^(-4)
-
+0.4ms  a s =  0.0004 s
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
-:     1/T=1/〖4x10〗^(-4) =2500hz
+![](https://user-images.githubusercontent.com/84998013/132145355-b9cb982b-28fb-4905-b680-36d915d8375d.png)
 
 Con el multímetro digital mida el voltaje de salida en RL:
 
+El  voltaje de salida es igual a 4.702 V
 
 Compare el voltaje medido en el punto 5 y el obtenido en el punto 7.
 
-¿Coinciden? :
+¿Coinciden? 
 
-¿Por qué?:
+El voltaje de la amplitud fue igual a 6.82 V y el voltaje de salida en RL, medido con el multímetro fue igual a 4.702 V. Estos dos voltajes no coinciden ya que la amplitud nos muestra el voltaje pico que tiene la frecuencia y el multímetro nos da el voltaje eficaz o rms del circuito o mejor dicho el voltaje de salida de la resistencia 
+
+Al multiplicar el voltaje de la amplitud por 0.707, se tendrá el voltaje eficaz o rms que ahora si coincidirá con el voltaje medido con el multímetro siendo este nuestro voltaje de salida   
 
 
 **7.VIDEO**
