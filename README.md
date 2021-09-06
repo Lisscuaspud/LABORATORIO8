@@ -10,7 +10,7 @@ Revisar el concepto y representación de onda senoidal aplicado a circuitos elé
 
 - Comparar el voltaje de salida en RL con la amplitud de voltaje y verificar si coinciden. 
 
--
+- 
 
 **3.MARCO TEÓRICO**
 
