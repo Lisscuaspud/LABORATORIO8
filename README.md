@@ -14,7 +14,7 @@ Revisar el concepto y representación de onda senoidal aplicado a circuitos elé
 
 **3.MARCO TEÓRICO**
 
-
+![](https://user-images.githubusercontent.com/84998005/132145471-569621d1-07b1-4691-a399-7b8874a288b1.png)
 
 **4.MATERIALES**
 
