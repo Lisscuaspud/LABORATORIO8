@@ -105,6 +105,9 @@ Al multiplicar el voltaje de la amplitud por 0.707, se tendrá el voltaje eficaz
 
 **9.BIBLIOGRAFIA**
 
+Charles K. Matthew N. O. Sadiku A. 5ta Ed., sección 9.2: "Senoides".
+
+
 
 
 
